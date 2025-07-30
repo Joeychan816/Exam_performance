@@ -1,1 +1,1 @@
-# RLinears
+#This project was about finding correlations between student exam scores and other variables such as but not limited to; study hours per day, mental health rating, total screen time, exercise frequency, etc. 
